@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Emmanuel from Mexico.
 #### Full-Stack Web Developer
-![Full-Stack Web Developer]
+
 
 I'm an passionate and motivated developer seeking to improve my skills and learn a new one on every chance.
 
@@ -12,4 +12,4 @@ I'm an passionate and motivated developer seeking to improve my skills and learn
 - egil90@hotmail.com
 - +52 9999076954
 
-(https://wordart.com/wdqw0gppddj8/word-art)
+![Full-Stack Web Developer](https://wordart.com/wdqw0gppddj8/word-art)
