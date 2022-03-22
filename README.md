@@ -10,5 +10,4 @@ I'm an passionate and motivated developer seeking to improve my skills and learn
 
 • Contact info:
 - egil90@hotmail.com
-- +52 9999076954
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmmanuelGilh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/emmanuelgilh//)  
