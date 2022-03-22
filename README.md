@@ -12,4 +12,4 @@ I'm an passionate and motivated developer seeking to improve my skills and learn
 - egil90@hotmail.com
 - +52 9999076954
 
-(file:///C:/Users/Usuario/Downloads/Word%20Art.png)
+(https://wordart.com/wdqw0gppddj8/word-art)
