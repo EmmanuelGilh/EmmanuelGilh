@@ -2,9 +2,9 @@
 #### Full-Stack Web Developer
 
 
-I'm an passionate and motivated developer seeking to improve my skills and learn a new one on every chance.
+I'm an passionate and motivated developer seeking to improve my skills and learn more skills on every chance.
 
-- 💬 Ask me about REACT / JS / HTML / CSS / NODE.JS / EXPRESS / SEQUELIZE / EXPRESS / POSTGRESQL 
+- 💬 Ask me about REACT / JS / HTML / CSS / NODE.JS / EXPRESS / EXPRESS / POSTGRESQL 
 
 
 
